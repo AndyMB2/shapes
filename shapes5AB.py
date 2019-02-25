@@ -21,3 +21,6 @@ sHex = Polygon(Point(832, 200), Point(917, 200), Point(950, 125), Point(917, 50)
 sHex.setFill(color_rgb(225, 67, 22))
 sHex.draw(s5Win)
              
+sRum = Polygon(Point(500, 600), Point(550, 500), Point(500, 400), Point(450, 500))
+sRum.setFill(color_rgb(1, 189, 250))
+sRum.draw(s5Win)
