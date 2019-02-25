@@ -13,3 +13,7 @@ sSqr = Polygon(Point(50, 950), Point(200, 950), Point(200, 800), Point(50, 800))
 sSqr.setFill(color_rgb(100, 25, 21))
 sSqr.draw(s5Win)
 
+sPent = Polygon(Point(875, 950), Point(950, 875), Point(925, 800), Point(825, 800), Point(800, 875))
+sPent.setFill(color_rgb(0, 225, 0))
+sPent.draw(s5Win)
+
