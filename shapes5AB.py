@@ -17,3 +17,7 @@ sPent = Polygon(Point(875, 950), Point(950, 875), Point(925, 800), Point(825, 80
 sPent.setFill(color_rgb(0, 225, 0))
 sPent.draw(s5Win)
 
+sHex = Polygon(Point(832, 200), Point(917, 200), Point(950, 125), Point(917, 50), Point(832, 50), Point(800, 125))
+sHex.setFill(color_rgb(225, 67, 22))
+sHex.draw(s5Win)
+             
