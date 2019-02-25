@@ -24,3 +24,6 @@ sHex.draw(s5Win)
 sRum = Polygon(Point(500, 600), Point(550, 500), Point(500, 400), Point(450, 500))
 sRum.setFill(color_rgb(1, 189, 250))
 sRum.draw(s5Win)
+
+s5Win.getMouse()
+s5Win.close()
